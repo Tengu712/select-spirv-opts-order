@@ -1,0 +1,8 @@
+/bin/
+/external/
+
+.gitattributes
+.gitignore
+build.bat
+LICENSE
+README.md
